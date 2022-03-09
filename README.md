@@ -1,6 +1,6 @@
 ## Pobreza infantil e suas discrepâncias regionais no Brasil
 
-Esse repositório possui dois scripts em R. O primeiro é referente à manipulação dos dados e à análise exploratória dos dados e o segundo à modelagem de dados.
+Esse repositório possui dois scripts em R. O primeiro é referente ao tratamento dos dados e à análise exploratória dos dados e o segundo à modelagem de dados.
 
 Utilizou-se dados da Pesquisa Nacional por Amostra de Domicílios Contínua (PNADC) de 2019. 
 
